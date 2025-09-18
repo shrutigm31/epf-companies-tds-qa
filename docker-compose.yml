@@ -8,4 +8,3 @@ services:
       - ./index_data:/app/index_data
     environment:
       - PORT=8501
-      - OPENAI_API_KEY=${OPENAI_API_KEY}  # optional
