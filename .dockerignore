@@ -1,9 +1,6 @@
 env
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 .vscode/
 .env
-*.egg-info/
 index_data/
